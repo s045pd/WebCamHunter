@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="media/webcam_montage.jpg" />
+<img src="media/webcam_montage.jpg" alt="zoom me up~" />
     <h1 align="center" >WebCamHunter</h1>
     <p align="center"> Look for all monitoring devices with weak passwords in the LAN </p>
         <p align="center">

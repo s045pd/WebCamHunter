@@ -137,3 +137,5 @@ conf.py
 
 # Log
 ghostdriver.log
+.claude/settings.local.json
+*.prof
